@@ -1,0 +1,17 @@
+.injected-svg {
+  width: 70px;
+  height: 70px;
+  fill: white;
+}
+.right svg {
+  fill: green;
+}
+.wrong svg {
+  fill: red;
+}
+
+#hands {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

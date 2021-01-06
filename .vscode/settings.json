@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.configPath": "/Users/baptiste/Documents/baptiste/pong2.0/.prettierrc",
+  "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
